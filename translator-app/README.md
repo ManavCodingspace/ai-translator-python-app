@@ -32,27 +32,37 @@ This application allows users to translate text between multiple languages, use 
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/ai-translator-python.git
+g## Installation
 
-Navigate to the folder:
+Clone the repository:
 
+```bash
+git clone (https://github.com/ManavCodingspace/ai-translator-python-app.git)
+```
+
+Navigate to the project folder:
+
+```bash
 cd ai-translator-python
+```
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the application:
 
+```bash
 python main.py
-
----
+```
 
 ## Screenshots
 
 ![App Screenshot](assets/screenshot.png)
 
----
+
 
 ## Future Improvements
 
